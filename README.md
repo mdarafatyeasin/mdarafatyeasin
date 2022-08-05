@@ -27,6 +27,7 @@ Skills: HTML / CSS / JS  / REACT / MONGODB  / NODEJS / FIREBASE / BOOTSTRAP / TA
 
 ![GitHub metrics](https://metrics.lecoq.io/mdarafatyeasin)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdarafatyeasin)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdarafatyeasin) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/mdarafatyeasin)  

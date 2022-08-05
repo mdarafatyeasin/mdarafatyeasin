@@ -1,16 +1,22 @@
-### Hi there yeasin 👋
+### Hi there 👋, I'm Yeasin Arafat
+#### Web Developer
+![Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQF4foObtOStSA/profile-displaybackgroundimage-shrink_350_1400/0/1654695946187?e=1665014400&v=beta&t=qcKfIwwuJ49K6eiSpY2DPIFS2jmq6UYXQLpomznYso8)
 
-<!--
-**mdarafatyeasin/mdarafatyeasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi. Thanks for checking out my GitHub profile. I'm a innovative web developer. I design and build websites. I work closely with clients to articulate their vision in a design. I’m fluent in HTML, CSS, Bootstrap, Tailwind, DaisyUI, Firebase, MongoDB, and Nodejs and pretty handy with JavaScript and React. I develop a custom Website theme to match the design and desired functionality. I provide my clients with full web strategy consultancy.
 
-Here are some ideas to get you started:
+My focus lately has been helping small businesses get started on the internet by designing and building websites that are professional and clean, with a content management system for their website that allows them to take control of their brand’s narrative.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML / CSS / JS  / REACT / MONGODB  / NODEJS / FIREBASE / BOOTSTRAP / TAILWIND / DAISYUI
+
+- 🔭 I’m currently working on Web Development 
+- 🌱 I’m currently learning NextJs 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Develipment 
+- 📫 How to reach me: yeaisnarafat54239@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdarafatyeasin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-yeasin-arafat-627067233//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100008908307991)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/md_yeasin_25//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/19069592/yeasin-arafat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://super-cassata-bf3e21.netlify.app/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mdarafatyeasin&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/mdarafatyeasin)  

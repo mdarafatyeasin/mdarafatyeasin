@@ -1,6 +1,6 @@
+![Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQF4foObtOStSA/profile-displaybackgroundimage-shrink_350_1400/0/1654695946187?e=1665014400&v=beta&t=qcKfIwwuJ49K6eiSpY2DPIFS2jmq6UYXQLpomznYso8)
 ### Hi there 👋, I'm Yeasin Arafat
 #### Web Developer
-![Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQF4foObtOStSA/profile-displaybackgroundimage-shrink_350_1400/0/1654695946187?e=1665014400&v=beta&t=qcKfIwwuJ49K6eiSpY2DPIFS2jmq6UYXQLpomznYso8)
 
 Hi. Thanks for checking out my GitHub profile. I'm a innovative web developer. I design and build websites. I work closely with clients to articulate their vision in a design. I’m fluent in HTML, CSS, Bootstrap, Tailwind, DaisyUI, Firebase, MongoDB, and Nodejs and pretty handy with JavaScript and React. I develop a custom Website theme to match the design and desired functionality. I provide my clients with full web strategy consultancy.
 

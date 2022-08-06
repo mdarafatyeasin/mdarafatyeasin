@@ -1,6 +1,5 @@
 ![GitHub](https://user-images.githubusercontent.com/96804432/183226845-1669d8fb-c416-43b0-93d7-ac3e43837a57.png)
 
-
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=mdarafatyeasin&color=brightgreen" alt="7oSkaaa" /> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
@@ -13,8 +12,6 @@
 </br>
 </br>
 
-
-
 ## <p align="center">🛠️ Technology Stack</p>
 <p align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -25,7 +22,6 @@
 	<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
-
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning NextJs 
@@ -43,5 +39,3 @@
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=mdarafatyeasin&theme=radical"/> </br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarafatyeasin&&theme=radical"/>
 </p>
-
-

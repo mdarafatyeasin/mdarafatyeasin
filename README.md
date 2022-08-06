@@ -1,6 +1,6 @@
 ![GitHub](https://user-images.githubusercontent.com/96804432/183226845-1669d8fb-c416-43b0-93d7-ac3e43837a57.png)
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-mdarafatyeasin)
+![Profile views](https://komarev.com/ghpvc/?username=mdarafatyeasin)
 
 Hi. Thanks for checking out my GitHub profile. I'm a innovative web developer. I design and build websites. I work closely with clients to articulate their vision in a design. I’m fluent in HTML, CSS, Bootstrap, Tailwind, DaisyUI, Firebase, MongoDB, and Nodejs and pretty handy with JavaScript and React. I develop a custom Website theme to match the design and desired functionality. I provide my clients with full web strategy consultancy.
 

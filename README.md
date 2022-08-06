@@ -1,11 +1,15 @@
 ![GitHub](https://user-images.githubusercontent.com/96804432/183226845-1669d8fb-c416-43b0-93d7-ac3e43837a57.png)
 
-![Profile views](https://komarev.com/ghpvc/?username=mdarafatyeasin&color=brightgreen)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/mdarafatyeasin/mdarafatyeasin?tab=repositories?style=plastic)
 
-Hi. Thanks for checking out my GitHub profile. I'm a innovative web developer. I design and build websites. I work closely with clients to articulate their vision in a design. I’m fluent in HTML, CSS, Bootstrap, Tailwind, DaisyUI, Firebase, MongoDB, and Nodejs and pretty handy with JavaScript and React. I develop a custom Website theme to match the design and desired functionality. I provide my clients with full web strategy consultancy.
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=mdarafatyeasin&color=brightgreen" alt="7oSkaaa" /> 
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://img.shields.io/github/followers/mdarafatyeasin?style=social" target="_blank"/> 
+	</a>
+</p>
 
-My focus lately has been helping small businesses get started on the internet by designing and building websites that are professional and clean, with a content management system for their website that allows them to take control of their brand’s narrative.
+<p align="center">Hi. Thanks for checking out my GitHub profile. I'm a innovative web developer. I design and build websites. I work closely with clients to articulate their vision in a design. I’m fluent in HTML, CSS, Bootstrap, Tailwind, DaisyUI, Firebase, MongoDB, and Nodejs and pretty handy with JavaScript and React. I develop a custom Website theme to match the design and desired functionality. I provide my clients with full web strategy consultancy. My focus lately has been helping small businesses get started on the internet by designing and building websites that are professional and clean, with a content management system for their website that allows them to take control of their brand’s narrative.</p>
+
 
 Skills: HTML / CSS / JS  / REACT / MONGODB  / NODEJS / FIREBASE / BOOTSTRAP / TAILWIND / DAISYUI
 

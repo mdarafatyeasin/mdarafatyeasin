@@ -40,12 +40,8 @@
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=mdarafatyeasin&show_icons=true&theme=radical" alt="HTML"/>
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=your-github-username&show_icons=true&theme=radical)"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarafatyeasin&&theme=dark&background=000000"/>
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=mdarafatyeasin&theme=radical"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarafatyeasin&&theme=radical"/>
 </p>
-
-</br>
-</br>
-<p align="center"><img src="https://metrics.lecoq.io/mdarafatyeasin"/></p>
 
 

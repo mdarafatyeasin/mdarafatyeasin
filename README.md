@@ -2,6 +2,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/mdarafatyeasin)  
 
+![Profile views](https://gpvc.arturio.dev/Naereen)
+
 Hi. Thanks for checking out my GitHub profile. I'm a innovative web developer. I design and build websites. I work closely with clients to articulate their vision in a design. I’m fluent in HTML, CSS, Bootstrap, Tailwind, DaisyUI, Firebase, MongoDB, and Nodejs and pretty handy with JavaScript and React. I develop a custom Website theme to match the design and desired functionality. I provide my clients with full web strategy consultancy.
 
 My focus lately has been helping small businesses get started on the internet by designing and building websites that are professional and clean, with a content management system for their website that allows them to take control of their brand’s narrative.

@@ -1,4 +1,4 @@
-![GitHub]<img src="https://i.ibb.co/44grbRc/Git-Hub-min.png" alt="Git-Hub-min" border="0">)
+![GitHub]<img src="https://i.ibb.co/44grbRc/Git-Hub-min.png" alt="Git-Hub-min" border="0">
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=mdarafatyeasin&color=brightgreen" alt="7oSkaaa" /> 

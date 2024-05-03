@@ -7,7 +7,7 @@
 	</a>
 </p>
 
-<p align="center">Hi. Thanks for checking out my GitHub profile. I'm a innovative web developer. I design and build websites. I work closely with clients to articulate their vision in a design. I’m fluent in HTML, CSS, Bootstrap, Tailwind, DaisyUI, Firebase, MongoDB, and Nodejs and pretty handy with JavaScript and React. I develop a custom Website theme to match the design and desired functionality. I provide my clients with full web strategy consultancy. My focus lately has been helping small businesses get started on the internet by designing and building websites that are professional and clean, with a content management system for their website that allows them to take control of their brand’s narrative.</p>
+<p align="center">Hi. Thanks for checking out my GitHub profile. I'm an innovative web developer. I design and build websites. I work closely with clients to articulate their vision in a design. I’m fluent in HTML, CSS, Bootstrap, Tailwind, DaisyUI, Django, DRF, and Firebase, and pretty handy with MongoDB, Nodejs, JavaScript, and React. I develop a custom Website theme to match the design and desired functionality. I provide my clients with full web strategy consultancy. My focus lately has been helping small businesses get started on the internet by designing and building websites that are professional and clean, with a content management system for their website that allows them to take control of their brand’s narrative.</p>
 
 </br>
 </br>
@@ -31,10 +31,10 @@
 </p>
 
 - 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning NextJs 
+- 🌱 I’m currently learning NextJs and AWS
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Develipment 
-- 📫 How to reach me: yeaisnarafat54239@gmail.com 
+- 💬 Ask me about Web development 
+- 📫 How to reach me: mdyeasinarafat723@gmail.com
 
 </br>
 </br>
